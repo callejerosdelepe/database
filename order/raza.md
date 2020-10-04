@@ -17,7 +17,7 @@
 |--|--| Sexo | Macho | Macho |
 |--|--| Color | Anaranjado | Anaranjado|
 |**X**|**->**| Raza | Europea | Europea |
-|--|--| Fotografía | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/oranged/oranged1.jpeg) | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/oranged/oranged2.jpeg) |
+|--|--| Fotografía | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/oranged/oranged1.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/oranged/oranged2.jpeg) |
 
 
 
@@ -28,7 +28,7 @@
 |--|--| Sexo | Macho | Macho | Macho |
 |--|--| Color | Atigrado | Atigrado | Atigrado |
 |**X**|**->**| Raza | Europea | Europea | Europea |
-|--|--| Fotografía | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/tigrered/atigrered1.jpeg) | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/tigrered/cofito1.jpeg) | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/tigrered/cofito2.jpeg) |
+|--|--| Fotografía | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/tigrered/atigrered1.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/tigrered/cofito1.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/tigrered/cofito2.jpeg) |
 
 
 | Selección| Orden | Nombre / Datos | Sin nombre | Sin nombre | Sin nombre |
@@ -38,4 +38,4 @@
 |--|--| Sexo | Hembra | Macho | Macho |
 |--|--| Color | Carey | Bicolor | Bicolor |
 |**X**|**->**| Raza | Europea | Europea | Europea |
-|--|--| Fotografía | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/unspecified/carey1.jpeg) | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/unspecified/blackwhite2.jpeg) | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/unspecified/blackwhite2.jpeg) |
+|--|--| Fotografía | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/unspecified/carey1.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/unspecified/blackwhite2.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/unspecified/blackwhite2.jpeg) |
