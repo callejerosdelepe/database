@@ -5,7 +5,7 @@
 | Navegación
 | Inicio | Fichas | Color (ELEGIR) | Selección |
 |--|--|--|--|
-|--| Ordenar por sexo | Anaranjado |
-|--| Ordenar por edad | Atigrado |
-|X| Ordenar por color | Colores sin catalogar |
-|--| Ordenar por raza |
+|--| [Ordenar por sexo](http://beta.callejerosdelepe.org/database/order/sex) | Anaranjado |
+|--| [Ordenar por edad](http://beta.callejerosdelepe.org/database/order/age) | Atigrado |
+|X| [Ordenar por color](http://beta.callejerosdelepe.org/database/order/color) | Colores sin catalogar |
+|--| [Ordenar por raza](http://beta.callejerosdelepe.org/database/order/raza) |
