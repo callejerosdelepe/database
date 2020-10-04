@@ -5,7 +5,7 @@
 | Navegación
 | Inicio | Fichas | Sexo (ELEGIR) | Selección
 |--|--|--|--|
-|X| Ordenar por sexo | Macho
-|--| Ordenar por edad | Hembra
-|--| Ordenar por color |
-|--| Ordenar por raza |
+|--| [Ordenar por sexo](http://beta.callejerosdelepe.org/database/order/sex) | [Macho](http://beta.callejerosdelepe.org/database/order/sex/male) | 
+|--| [Ordenar por edad](http://beta.callejerosdelepe.org/database/order/age) | [Hembra](http://beta.callejerosdelepe.org/database/order/sex/female) |
+|--| [Ordenar por color](http://beta.callejerosdelepe.org/database/order/color) |
+|--| [Ordenar por raza](http://beta.callejerosdelepe.org/database/order/raza) |
