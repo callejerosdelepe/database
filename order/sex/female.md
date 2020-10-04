@@ -17,4 +17,4 @@
 |**X**|**->**| Sexo | Hembra |
 |--|--| Color | Carey | 
 |--|--| Raza | Europea | 
-|--|--| Fotografía | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/unspecified/carey1.jpeg) |
+|--|--| Fotografía | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/unspecified/carey1.jpeg) |
