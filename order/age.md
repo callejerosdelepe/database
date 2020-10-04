@@ -12,7 +12,7 @@
 
 | Selección| Orden | Nombre / Datos | Sin nombre | Sin nombre | Sin nombre |
 |--|--|--|--|--|--|
-|**XX**|**->**| Edad | 2 meses | ??? | ??? |
+|**X**|**->**| Edad | 2 meses | ??? | ??? |
 |--|--| Eval. Conducta | Es muy mimosito, le encanta que le acaricies. Es un gato de amor y mucho cariño. | El es uno de los muchos que no adoptan por ser muy mayor. Es muy cariñoso un poco asustadizo tal vez, pero con una casa de amor y mucho cariño puede que sea el compañero ideal. | Al igual que su compañero es un felino con ganas de tener un lugar con una familia que le de calor en una noche de invierno. |
 |--|--| Sexo | Macho | Macho | Macho |
 |--|--| Color | Atigrado | Atigrado | Atigrado |
