@@ -4,6 +4,7 @@
 
 | Navegación
 | Inicio | Fichas 
+|--|--|
 |--| [Ordenar por sexo](http://beta.callejerosdelepe.org/database/order/sex) |
 |X| [Ordenar por edad](http://beta.callejerosdelepe.org/database/order/age) |
 |--| [Ordenar por color](http://beta.callejerosdelepe.org/database/order/color) |
