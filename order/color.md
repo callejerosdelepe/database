@@ -3,7 +3,7 @@
 ### Estamos terminando de añadir las fichas de nuestros callejeros. Por favor sea paciente.
 
 | Navegación
-| Inicio | Fichas | Color |
+| Inicio | Fichas | Color (ELEGIR) |
 |--|--|--|
 |--| Ordenar por sexo | Anaranjado |
 |--| Ordenar por edad | Atigrado |
