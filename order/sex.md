@@ -5,7 +5,7 @@
 | Navegación
 | Inicio | Fichas | Sexo (ELEGIR) |
 |--|--|--|
-|--| Ordenar por sexo | Macho
+|X| Ordenar por sexo | Macho
 |--| Ordenar por edad | Hembra
 |--| Ordenar por color |
 |--| Ordenar por raza |
