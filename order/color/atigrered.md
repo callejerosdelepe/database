@@ -17,4 +17,4 @@
 |--|--| Sexo | Macho | Macho | Macho |
 |**X**|**->**| Color | Atigrado | Atigrado | Atigrado |
 |--|--| Raza | Europea | Europea | Europea |
-|--|--| Fotografía | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/tigrered/atigrered1.jpeg) | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/tigrered/cofito1.jpeg) | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/tigrered/cofito2.jpeg) |
+|--|--| Fotografía | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/tigrered/atigrered1.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/tigrered/cofito1.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/tigrered/cofito2.jpeg) |
