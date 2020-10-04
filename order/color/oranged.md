@@ -19,4 +19,4 @@
 |--|--| Sexo | Macho | Macho |
 |**X**|**->**| Color | Anaranjado | Anaranjado|
 |--|--| Raza | Europea | Europea |
-|--|--| Fotografía | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/oranged/oranged1.jpeg) | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/oranged/oranged2.jpeg) |
+|--|--| Fotografía | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/oranged/oranged1.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/oranged/oranged2.jpeg) |
