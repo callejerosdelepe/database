@@ -17,4 +17,4 @@
 |--|--| Sexo | Hembra | Macho | Macho |
 |**X**|**->**| Color | Carey | Bicolor | Bicolor |
 |--|--| Raza | Europea | Europea | Europea |
-|--|--| Fotografía | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/unspecified/carey1.jpeg) | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/unspecified/blackwhite2.jpeg) | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/unspecified/blackwhite2.jpeg) |
+|--|--| Fotografía | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/unspecified/carey1.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/unspecified/blackwhite2.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/unspecified/blackwhite2.jpeg) |
