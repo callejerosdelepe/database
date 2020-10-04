@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Base de datos
 description: Identidad felina temporal en nuestro módulo
+show_downloads: false
