@@ -10,11 +10,11 @@
 |--| [Ordenar por color](http://beta.callejerosdelepe.org/database/order/color) |
 |--| [Ordenar por raza](http://beta.callejerosdelepe.org/database/order/raza) |
 
-| Selección| Orden | Nombre / Datos | Sin nombre |
-|--|--|--|--|--|
+| Selección | Orden | Nombre / Datos | Sin nombre |
+|--|--|--|--|
 |--|--| Edad | 3 meses aprox. |
 |--|--| Eval. Conducta | Es una hembra muy cariñosa, todo color no tiene más que ver sus ojos iluminados para quien sea su nueva familia. Cariñosa, y muy juguetona. |
 |**X**|**->**| Sexo | Hembra |
-|--|--| Color | Anaranjado | 
+|--|--| Color | Carey | 
 |--|--| Raza | Europea | 
 |--|--| Fotografía | [Ver foto](https://github.com/callejerosdelepe/database/blob/main/img_db/unspecified/carey1.jpeg) |
