@@ -3,9 +3,9 @@
 ### Estamos terminando de añadir las fichas de nuestros callejeros. Por favor sea paciente.
 
 | Navegación
-| Inicio | Fichas
-|--|--|
-|--| Ordenar por sexo |
-|--| Ordenar por edad |
+| Inicio | Fichas | Sexo (ELEGIR) |
+|--|--|--|
+|--| Ordenar por sexo | Macho
+|--| Ordenar por edad | Hembra
 |--| Ordenar por color |
 |--| Ordenar por raza |
