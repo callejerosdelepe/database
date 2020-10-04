@@ -15,7 +15,7 @@
 |--|--| Edad | 6 meses | 1 año aprox. |
 |--|--| Eval. Conducta | Le encanta estar acurrucadito con su hermanito anaranjado es muy bueno y le encantaría tener una familia que lo cuidase. |Al igual que su hermano anaranjado le encanta estar calentito, sobre todo acurrucado. Una familia cariñosa sería lo ideal para este felino|
 |**X**|**->**| Sexo | Macho | Macho |
-|--|-- Color | Anaranjado | Anaranjado|
+|--|--| Anaranjado | Anaranjado|
 |--|--| Raza | Europea | Europea |
 |--|--| Fotografía | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/oranged/oranged1.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/oranged/oranged2.jpeg) |
 
@@ -26,7 +26,7 @@
 |--|--| Edad | 2 meses | ??? | ??? |
 |--|--| Eval. Conducta | Es muy mimosito, le encanta que le acaricies. Es un gato de amor y mucho cariño. | El es uno de los muchos que no adoptan por ser muy mayor. Es muy cariñoso un poco asustadizo tal vez, pero con una casa de amor y mucho cariño puede que sea el compañero ideal. | Al igual que su compañero es un felino con ganas de tener un lugar con una familia que le de calor en una noche de invierno. |
 |**X**|**->**| Sexo | Macho | Macho | Macho |
-|--|-- Color | Atigrado | Atigrado | Atigrado |
+|--|--| Atigrado | Atigrado | Atigrado |
 |--|--| Raza | Europea | Europea | Europea |
 |--|--| Fotografía | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/tigrered/atigrered1.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/tigrered/cofito1.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/tigrered/cofito2.jpeg) |
 
@@ -36,6 +36,6 @@
 |--|--| Edad | 3 meses aprox. | ??? |
 |--|--| Eval. Conducta | Un felino muy observador, que le encanta ver y por supuesto tener cariño de su familia. Un felino ideal para aquellos que les quiera dar unas caricias durante todo el día. | Este felino es muy pequeñito. Puede que tenga unos 2 meses aprox. No se sabe con exactitud, pero si buscas un pequeñin que te de que hacer, este es tu felino.|
 |**X**|**->**| Sexo | Macho | Macho |
-|--|-- Color | Bicolor | Bicolor |
+|--|--| Bicolor | Bicolor |
 |--|--| Raza| Europea | Europea |
 |--|--| Fotografía | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/unspecified/blackwhite1.jpeg) | [Ver foto](https://raw.githubusercontent.com/callejerosdelepe/database/main/img_db/unspecified/blackwhite2.jpeg) |
