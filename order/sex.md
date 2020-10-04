@@ -3,8 +3,8 @@
 ### Estamos terminando de añadir las fichas de nuestros callejeros. Por favor sea paciente.
 
 | Navegación
-| Inicio | Fichas | Sexo (ELEGIR) |
-|--|--|--|
+| Inicio | Fichas | Sexo (ELEGIR) | Selección
+|--|--|--|--|
 |X| Ordenar por sexo | Macho
 |--| Ordenar por edad | Hembra
 |--| Ordenar por color |
