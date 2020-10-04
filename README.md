@@ -5,7 +5,7 @@
 | Navegación
 | Inicio | Fichas
 |--|--|
-|--| Ordenar por sexo |
-|--| Ordenar por edad |
-|--| Ordenar por color |
-|--| Ordenar por raza |
+|--| [Ordenar por sexo](http://beta.callejerosdelepe.org/database/order/sex) |
+|--| [Ordenar por edad](http://beta.callejerosdelepe.org/database/order/age) |
+|--| [Ordenar por color](http://beta.callejerosdelepe.org/database/order/color) |
+|--| [Ordenar por raza](http://beta.callejerosdelepe.org/database/order/raza) |
