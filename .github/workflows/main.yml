@@ -26,7 +26,7 @@ jobs:
          port: 465
          username: ${{secrets.MAIL_USERNAME}}
          password: ${{secrets.MAIL_PASSWORD}}
-         subject: BD Callejeros - Tarea aplazada
-         body: Hola, soy Jackson, el gato robot, la configuración de actualización de la base de datos ha sido aplazada hasta mañana a las 11 y media del 05 de octubre de 2020. Miau.
+         subject: BD Callejeros - Tarea en proceso
+         body: Hola, soy Jackson, el gato robot, se están modificando los datos de la base de datos. Se te notificará en cuanto se termine. Miau.
          to: soniaperezsanchez44@gmail.com, pasaje_matalascanas@hotmail.com, suareztocino.00@icloud.com
          from: noreply@callejerosdelepe.org
